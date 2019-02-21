@@ -7,7 +7,8 @@
   - [Creación de clases] mediante el nuevo estándar.
   - Definición de objetos a partir de clases ES6.
  
-Se reitera que este mini-proyecto es una simple demostración para quienes apenas se inician en el aprendizaje del lenguaje Javascript. 
+Se reitera que este mini-proyecto es una simple demostración para quienes apenas se inician en el aprendizaje del lenguaje Javascript.
+
 ### Funcionalidades adicionales
 
   - El prototipo de la interfaz de usuario se ha diseñado mediante [Materialize].
