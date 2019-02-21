@@ -8,7 +8,7 @@
   - Definición de objetos a partir de clases ES6.
  
 Se reitera que este mini-proyecto es una simple demostración para quienes apenas se inician en el aprendizaje del lenguaje Javascript. 
-### Funcionales adicionales
+### Funcionalidades adicionales
 
   - El prototipo de la interfaz de usuario se ha diseñado mediante [Materialize].
   - Se incluye una mínima demostración del objeto Audio de Javascript.
@@ -17,7 +17,7 @@ Se reitera que este mini-proyecto es una simple demostración para quienes apena
  
 ### Cómo realizar las pruebas
 
-La manera más facil consiste en descargar y descomprimir la carpeta que contiene el juego en el directorio público de su servidor de internet (htdocs para XAMPP, www para WampServer, ...) y probar localmente (localhost | 127.0.0.1)
+La manera más fácil consiste en descargar y descomprimir la carpeta que contiene el juego en el directorio público de su servidor de internet (htdocs para XAMPP, www para WampServer, ...) y probar localmente (localhost | 127.0.0.1)
 
 Si apenas llega a Javascript, le puede ser útil [este tutorial] del autor del juego.
 
